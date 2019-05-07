@@ -637,6 +637,9 @@ footer .footer-bottom {
 }
 
 @media only screen and (min-width : 320px) and (max-width : 480px) {
+  .tabel-maklumat {
+    overflow-x: auto;
+  }
   .marginMobile {
     margin-bottom: 10px;
   }
